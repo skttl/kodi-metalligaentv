@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<settings>
+    <category label="30100">
+        <setting id="username" type="text" label="30140" default="" />
+        <setting id="password" type="text" label="30150" option="hidden" default="" />
+        <setting id="token" type="text" label="Token" default="" option="hidden" />
+        <setting id="token_expiry" type="text" label="Token expiry" option="hidden" default="" />
+    </category>
+</settings>
